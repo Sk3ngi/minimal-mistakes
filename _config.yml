@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Sk3ngi"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/myAvatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just curious"
   location         : "Svitz"
   email            :
