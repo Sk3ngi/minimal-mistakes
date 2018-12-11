@@ -80,7 +80,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :sk3ngi
+  username               :#sk3ngi
 facebook:
   username               :
   app_id                 :
@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Sk3ngi"
   avatar           : "/assets/images/myAvatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just curious"
-  location         : "Svitz"
+  bio              : "Hi there, welcome to my fin blog"
+  location         : "Spain"
   email            :
   links:
     - label: "Email"
