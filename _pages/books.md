@@ -1,7 +1,8 @@
 ---
-title: "Books"
+title: Books
 permalink: /books/
 layout: category
+taxonomy: books
 author_profile: true
 ---
 {% for post in site.categories.Books %}

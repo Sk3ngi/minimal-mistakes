@@ -4,12 +4,12 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Books"
     url: /books/
-  - title: "Strat"
+  - title: "Strategies"
     url: /strategies/
   - title: "Courses"
     url: /courses/
   - title: "Archive"
-    url: /year-archive/
+    url: /archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
