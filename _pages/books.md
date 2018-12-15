@@ -1,6 +1,6 @@
 ---
 title: "Books"
-permalink: /Books/
+permalink: /books/
 layout: category
 author_profile: true
 ---

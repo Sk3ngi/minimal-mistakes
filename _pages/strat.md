@@ -1,6 +1,6 @@
 ---
 title: "Strategies"
-permalink: /Strategies/
+permalink: /strategies/
 layout: categories
 author_profile: true
 ---
