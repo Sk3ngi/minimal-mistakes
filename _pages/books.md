@@ -1,6 +1,6 @@
 ---
 title: "Books"
 permalink: /Books/
-layout: tags
+layout: categories
 author_profile: true
 ---
