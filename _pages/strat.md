@@ -1,6 +1,6 @@
 ---
 title: "Strategies"
 permalink: /Strategies/
-layout: tags
+layout: categories
 author_profile: true
 ---
