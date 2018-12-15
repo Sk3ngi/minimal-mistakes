@@ -1,5 +1,5 @@
 ---
-title: The intelligent investor
+title: "The intelligent investor"
 categories: Book
 ---
 # The intelligent investor - Benjamin Graham
