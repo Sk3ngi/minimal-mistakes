@@ -1,8 +1,7 @@
 ---
-title: The intelligent investor
+title: The intelligent investor - Benjamin Graham
 categories: Books
 ---
-# The intelligent investor - Benjamin Graham
 ## Key concepts
 - abcdef
 - ghijkl
