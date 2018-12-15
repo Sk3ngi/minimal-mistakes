@@ -1,6 +1,6 @@
 ---
-title: "The intelligent investor"
-categories: "Book"
+title: The intelligent investor
+categories: Book
 ---
 # The intelligent investor - Benjamin Graham
 ## Key concepts

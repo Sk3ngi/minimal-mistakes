@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "default","air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "An amazing scrapfin book"
+title                    : "A cool place to play"
 title_separator          : "-"
 name                     : "Sk3"
 description              : "My scrap book about finance and python."
@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Sk3ngi"
   avatar           : "/assets/images/myAvatar.GIF" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi there, welcome to my fin blog"
-  location         : "Spain"
+  bio              : "Hi there, welcome to my finance scrapblog. Let's have some fun with numbers (yaay)"
+  location         : "Barcelona"
   email            :
   links:
     - label: "Email"
