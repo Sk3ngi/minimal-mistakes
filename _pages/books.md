@@ -1,6 +1,6 @@
 ---
 title: "Books"
-permalink: /books/
+permalink: /Books/
 layout: tags
 author_profile: true
 ---
