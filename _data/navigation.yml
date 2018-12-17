@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: ""
+    url: "https://sk3ngi.github.io/"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Books"
