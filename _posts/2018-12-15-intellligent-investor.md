@@ -19,3 +19,4 @@ header:
 ### Chapter 3 Stock Market History
  - Do not assume that the future is based on the past
  - Do not overtrust the "experts"
+ - Do not overtrust the "forecasting power"
