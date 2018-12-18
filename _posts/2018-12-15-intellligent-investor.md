@@ -11,7 +11,7 @@ header:
  - Don't be too greedy: aim at correct return 
  - Two kinds of investors:
    - Defensive: saves money, little mistakes, controlled risk and decent return. Bonds + common stocks
-   - Enterprising (aggressive): Select market-beating stocks - undervaluated - and grow them. Speculation 
+   - Enterprising (aggressive): Select market-beating stocks - undervaluated - and grow them. Speculation
 ### Chapter 2: Investor and inflation
  - How much is kept after inflation?
  - Take into account in risk profile analysis
