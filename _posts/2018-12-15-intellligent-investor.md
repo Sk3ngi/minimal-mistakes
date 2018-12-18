@@ -24,7 +24,12 @@ header:
 Risk aversion determined by personal situation. What can you afford to lose?
  - 25% minimum in bonds in order to keep investing even though the market collapses
  - 75% max of total assets invested in stocks
- - Do not turn lazy if stock is too familiar
  - **Pick between 10 and 30 stocks if self-picked. Avoid industry concentrarion**
- 
- 
+ - Should not require more work than a couple of hours per month on total investments with defensive portfolio
+### Chapter 6: Enterprising investor
+ - Avoid day trading: extreme risk
+ - Avoid IPO (often overpriced)
+ - Extreme caution with foreign bonds
+ - **The bigger the firm gets, the slower it grows. Avoid a price/earnings ratios above 25-30**
+
+Always be on the look out for temporary unpopularity which enables you to buy a great company at a good price. 
