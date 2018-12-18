@@ -2,7 +2,7 @@
 title: The intelligent investor - Benjamin Graham
 categories: Books
 header:
-  teaser: /assets/images/teasers/intel_invest.jpg
+ teaser: /assets/images/teasers/intel_invest.jpg
 ---
 ## Key concepts
 ### Chapter 1: Invest vs Speculate
@@ -31,5 +31,7 @@ Risk aversion determined by personal situation. What can you afford to lose?
  - Avoid IPO (often overpriced)
  - Extreme caution with foreign bonds
  - **The bigger the firm gets, the slower it grows. Avoid a price/earnings ratios above 25-30**
-
-Always be on the look out for temporary unpopularity which enables you to buy a great company at a good price. 
+ - **Be on the lookout for temp unpopularity which enables you to buy a great company at a good price**
+### Chapter 8: Investor and market fluctuation
+ - If fancy speculation, separate it from investment, limit the amount and be ready to lose it all
+ - InGood stock: price is close to asset value, good ratio of earning to price, strong financial position and
