@@ -34,4 +34,8 @@ Risk aversion determined by personal situation. What can you afford to lose?
  - **Be on the lookout for temp unpopularity which enables you to buy a great company at a good price**
 ### Chapter 8: Investor and market fluctuation
  - If fancy speculation, separate it from investment, limit the amount and be ready to lose it all
- - InGood stock: price is close to asset value, good ratio of earning to price, strong financial position and
+ - Good stock: price is close to asset value, good ratio of earning to price, strong financial position and will last over the years
+### Chapter 9: Investment funds
+ - The higher a fund’s expenses, the lower its returns
+ - The more frequently a fund trades its stocks, the less it tends to earn
+ - Highly volatile funds, which bounce up and down more than average, are likely to stay volatile
