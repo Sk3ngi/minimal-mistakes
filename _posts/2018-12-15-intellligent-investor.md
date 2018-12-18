@@ -38,4 +38,4 @@ Risk aversion determined by personal situation. What can you afford to lose?
 ### Chapter 9: Investment funds
  - The higher a fund’s expenses, the lower its returns
  - The more frequently a fund trades its stocks, the less it tends to earn
- - Highly volatile funds, which bounce up and down more than average, are likely to stay volatile
+ - Highly volatile funds, which bounce up and down more than average, are likely to stay volatile 
