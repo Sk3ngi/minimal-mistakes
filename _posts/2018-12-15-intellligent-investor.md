@@ -20,7 +20,7 @@ header:
  - Do not assume that the future is based on the past
  - Do not overtrust the "experts"
  - Do not overtrust the "forecasting power"
-### Chapter 4:
+### Chapter 4: Defensive principles
 Risk aversion determined by personal situation. What can you afford to lose?
  - 25% minimum in bonds in order to keep investing even though the market collapses
  - 75% max of total assets invested in stocks
