@@ -25,6 +25,6 @@ Risk aversion determined by personal situation. What can you afford to lose?
  - 25% minimum in bonds in order to keep investing even though the market collapses
  - 75% max of total assets invested in stocks
  - Do not turn lazy if stock is too familiar
- - *Pick between 10 and 30 stocks if self-picked. Avois industry concentrarion*
+ - **Pick between 10 and 30 stocks if self-picked. Avois industry concentrarion**
  
  
